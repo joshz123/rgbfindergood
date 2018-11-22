@@ -1,0 +1,18 @@
+MAXIMUMS
+    RED:  71    7    7
+  GREEN:  11   29   16
+   BLUE:  12   41   66
+   PINK:  91   16   33
+  BROWN:  14    7    8
+ PURPLE:  36   21   37
+ ORANGE:  108   12   12
+ YELLOW:  101   71   38
+MINIMUMS
+    RED:  49    5    5
+  GREEN:  7   20   11
+   BLUE:  8   29   50
+   PINK:  53   10   21
+  BROWN:  12    6    7
+ PURPLE:  28   17   32
+ ORANGE:  96   10   10
+ YELLOW:  77   57   31
